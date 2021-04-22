@@ -13,12 +13,12 @@ List of Topics studied below:
 
 Some of the projects I've completed during Yandex's Practicum Data Analyst Program below:
 
-#### 1.[Jupyter Notebook]
-  - [Marketing Expenses Research]
-  - [Online Store A/B Testing]
-  - [Food Market Research]
-  - [Mobile App Conversion]
-#### 2.[Tableau Visualizations]
+#### 1.[Jupyter Notebook](#jn)
+  - [Marketing Expenses Research](#marketing)
+  - [Online Store A/B Testing](#online_store)
+  - [Food Market Research](+food)
+  - [Mobile App Conversion](#mobile)
+#### 2.[Tableau Visualizations](#tableau)
   -
   
 
