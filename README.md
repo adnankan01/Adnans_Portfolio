@@ -36,8 +36,8 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 **Key words**: LTV, CAC, ROMI, retention, cohort analysis. 
 
 **Libraries used**: pandas, matplotlib, seaborn, scipy.
-<img src="images/06_area_plot.png" alt="drawing" width="400"/>
-<img src="images/06_romi.png" alt="drawing" width="400"/>
+<img src="images/Avg_Romi_Bus_Analytics.png" alt="drawing" width="400"/>
+<img src="images/CAC.png" alt="drawing" width="400"/>
 
 ## [Online store A/B testing]()<a id='online_store'></a>
  
