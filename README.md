@@ -34,6 +34,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
  * Came up with product and marketing campaign improvements
  
 **Key words**: LTV, CAC, ROMI, retention, cohort analysis. 
+
 **Libraries used**: pandas, matplotlib, seaborn, scipy.
 <img src="images/06_area_plot.png" alt="drawing" width="400"/>
 <img src="images/06_romi.png" alt="drawing" width="400"/>
@@ -48,6 +49,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
  * Provided recommendations whether to stop or continue A/B test
  
 **Key words**: hypotheses prioritization, hypotheses testing, A/B testing
+
 **Libraries used**: pandas, matplotlib, scipy, seaborn
 <img src="images/07_conversion_dif.png" alt="drawing" width="400"/>
 <img src="images/07_difference.png" alt="drawing" width="400"/>
@@ -62,6 +64,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
  * Described strategies for successful restaurant opening
  
 **Key words**: pie chart, bar plot, scatter plot, distribution plot. 
+
 **Libraries used**: pandas, matplotlib, numpy, plotly, seaborn.
 <img src="images/08_seats.png" alt="drawing" width="400"/>
 <img src="images/08_barplot.png" alt="drawing" width="400"/>
@@ -75,6 +78,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
  * Checked whether new design was beneficial using the results of A/A/B test
  
 **Key words**: sales funnel, conversion, A/B test, user behaviour. 
+
 **Libraries used**: pandas, plotly, seaborn, scipy.
 <img src="images/events%20per%20date.png" alt="drawing" width="400"/>
 <img src="images/funnel.png" alt="drawing" width="400"/>
