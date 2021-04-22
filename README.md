@@ -40,7 +40,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 
 
-## [Mobile app conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)<a id='mobile'></a>
+## [Mobile app conversion]()<a id='mobile'></a>
  
  In this project I've analysed mobile app logs:
  * Determined how many logs are there per each date, chose a suitable date interval for analysis
