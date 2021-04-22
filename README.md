@@ -23,6 +23,23 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
   
 
 # Jupyter notebook<a id='jn'></a>
+
+## [Marketing Expenses Research](https://github.com/adnankan01/Adnans_Portfolio/blob/main/BusinessDecisionsOnDataProject.ipynb)<a id='marketing'></a>
+ 
+ For this project I've analysed data on marketing costs, visits and orders for Yandex.Afisha:
+ * Described how clients used the product and when they made purchases
+ * Calculated retention rates
+ * Performed cohort analysis
+ * Explained which marketing costs were worthwhile
+ * Came up with product and marketing campaign improvements
+ 
+**Key words**: LTV, CAC, ROMI, retention, cohort analysis. 
+**Libraries used**: pandas, matplotlib, seaborn, scipy.
+<img src="images/06_area_plot.png" alt="drawing" width="400"/>
+<img src="images/06_romi.png" alt="drawing" width="400"/>
+
+
+
 ## [Mobile app conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)<a id='mobile'></a>
  
  In this project I've analysed mobile app logs:
