@@ -14,7 +14,8 @@ List of Topics studied below:
 Some of the projects I've completed during Yandex's Practicum Data Analyst Program below:
 
 #### 1.[Jupyter Notebook]
-  -
+  - 
+  - Mobile App Conversion
 #### 2.[Tableau Visualizations]
   -
   
