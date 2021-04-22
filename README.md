@@ -37,6 +37,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 **Libraries used**: pandas, matplotlib, seaborn, scipy.
 <img src="images/Avg_Romi_Bus_Analytics.png" alt="drawing" width="400"/>
+
 <img src="images/CAC.png" alt="drawing" width="400"/>
 
 ## [Online store A/B testing]()<a id='online_store'></a>
