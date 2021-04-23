@@ -25,7 +25,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 # Jupyter notebook<a id='jn'></a>
 
-## [Marketing Expenses Research](https://github.com/adnankan01/Adnans_Portfolio/tree/main/BusAnalyticsProject)
+## [Marketing Expenses Research](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Marketing%20Expenses%20Research/BusAnalyticsProject.ipynb)
 <a id='marketing'></a>
  
  For this project I've analysed data on marketing costs, visits and orders for Yandex.Afisha:
