@@ -12,12 +12,13 @@ List of Topics studied below:
 9. Forecasts and Predictions (**Machine Learning**)
 
 Some of the projects I've completed during Yandex's Practicum Data Analyst Program below:
-#### 1. [Jupyter Notebook](#jn)
+  1. [Jupyter Notebook](#jn)
   - [Marketing Expenses Research](#marketing)
   - [Online Store A/B Testing](#online_store)
   - [Food Market Research](+food)
   - [Mobile App Conversion](#mobile)
-#### 2. [Tableau Visualizations](#tableau)
+
+  2. [Tableau Visualizations](#tableau)
   - [Trending Youtube Videos](#yb)
   
 
@@ -84,3 +85,8 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 <img src="images/events%20per%20date.png" alt="drawing" width="400"/>
 <img src="images/funnel.png" alt="drawing" width="400"/>
 
+# Tableau visualizations<a id='tableau'></a>
+## [Trending YouTube Videos](https://public.tableau.com/profile/elizaveta.gorbunova#!/)<a id='yb'></a>
+## [Trending YouTube Videos](https://public.tableau.com/views/AutomationProject_16133294072210/TrendingYouTubeVideos?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
+Dashboard shows trending YouTube videos per country and category over time.
+<img src="images/tableau_yb.png" alt="drawing" width="800"/>
