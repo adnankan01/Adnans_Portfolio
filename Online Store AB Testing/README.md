@@ -1,5 +1,6 @@
-## Making Business Decisions Based on Data Project Description
-- You are an analyst at a big online store. Together with the marketing department, you've compiled a list of hypotheses that may help boost revenue. You need to prioritize these hypotheses, launch an A/B test, and analyze the results.
+## Making Business Decisions Based on Data Project 
+### Objective:
+You are an analyst at a big online store. Together with the marketing department, you've compiled a list of hypotheses that may help boost revenue. You need to prioritize these hypotheses, launch an A/B test, and analyze the results.
 
 ### Description of the data
 Data used in the first part of the project
