@@ -1,4 +1,5 @@
-## Objective:
+## Integrated Project 2
+### Objective:
 - You work at a startup that sells food products. You need to investigate user behavior for the company's app.
 - First study the sales funnel. Find out how users reach the purchase stage. How many users actually make it to this stage? How many get stuck at previous stages? Which stages in particular?
 
