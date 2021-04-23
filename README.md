@@ -42,7 +42,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 <img src="images/CAC.png" alt="drawing" width="500"/>
 
-## [Online store A/B testing]()<a id='online_store'></a>
+## [Online store A/B testing](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Online%20Store%20AB%20Testing/BusinessDecisionsOnDataProject.ipynb)<a id='online_store'></a>
  
  In this project I've worked with online store orders and visits:
  * Prioritised list of hypotheses to test using ICE and RICE scores
@@ -71,7 +71,9 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 **Key words**: pie chart, bar plot, scatter plot, distribution plot. 
 
 **Libraries used**: pandas, matplotlib, numpy, plotly, seaborn.
+
 <img src="images/rest seat avg totals.png" alt="drawing" width="500"/>
+
 <img src="images/number of rest and seats.png" alt="drawing" width="500"/>
 
 ## [Mobile app conversion]
@@ -87,7 +89,9 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 **Key words**: sales funnel, conversion, A/B test, user behaviour. 
 
 **Libraries used**: pandas, plotly, seaborn, scipy.
+
 <img src="images/events%20per%20date.png" alt="drawing" width="500"/>
+
 <img src="images/funnel.png" alt="drawing" width="500"/>
 
 # Tableau visualizations<a id='tableau'></a>
