@@ -1,13 +1,14 @@
 ## Business Analytics Sprint¶
 ### Project Goal: To optimize Yandex.Afisha marketing expenses
-key words: LTV, CAC, ROMI, cohort analysis
+**8key words**: LTV, CAC, ROMI, cohort analysis
 
-libraries used: panda, seaborn
+**libraries** used: panda, seaborn
 
-Data we were provided :
-Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
-Dump file with all orders for the period
-Marketing expenses statistics
+### Data we were provided :
+- Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
+- Dump file with all orders for the period
+- Marketing expenses statistics
+
 You are going to study:
 How people use the product
 When they start to buy
