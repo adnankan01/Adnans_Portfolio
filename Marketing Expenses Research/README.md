@@ -12,10 +12,10 @@
 - Marketing expenses statistics
 
 ### You are going to study:
-How people use the product
-When they start to buy
-How much money each customer brings
-When they pay off
+- How people use the product
+- When they start to buy
+- How much money each customer brings
+- When they pay off
 
 ### Description of the data
 - The visits table (server logs with data on website visits):
