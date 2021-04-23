@@ -54,7 +54,9 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 **Key words**: hypotheses prioritization, hypotheses testing, A/B testing
 
 **Libraries used**: pandas, matplotlib, scipy, seaborn
+
 <img src="images/Store AB Testing.png" alt="drawing" width="400"/>
+
 <img src="images/Store AB Testing 2.png" alt="drawing" width="400"/>
 
 ## [Food market research]()<a id='food'></a>
