@@ -25,7 +25,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 # Jupyter notebook<a id='jn'></a>
 
-## [Marketing Expenses Research](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Marketing%20Expenses%20Research/BusAnalyticsProject.ipynb)
+## [Marketing Expenses Research](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Marketing%20Expenses%20Research/README.md)
 <a id='marketing'></a>
  
  For this project I've analysed data on marketing costs, visits and orders for Yandex.Afisha:
@@ -43,7 +43,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 <img src="images/CAC.png" alt="drawing" width="500"/>
 
-## [Online store A/B testing](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Online%20Store%20AB%20Testing/BusinessDecisionsOnDataProject.ipynb)<a id='online_store'></a>
+## [Online store A/B testing](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Online%20Store%20AB%20Testing/README.md)<a id='online_store'></a>
  
  In this project I've worked with online store orders and visits:
  * Prioritised list of hypotheses to test using ICE and RICE scores
@@ -60,7 +60,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 <img src="images/Store AB Testing 2.png" alt="drawing" width="500"/>
 
-## [Food market research](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Food%20Market%20Research/HowToTellAStoryProject.ipynb)
+## [Food market research](https://github.com/adnankan01/Adnans_Portfolio/tree/main/Food%20Market%20Research)
 <a id='food'></a>
  
  Here I've worked with data on food market in LA to provide recommendations to investors:
@@ -78,7 +78,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 <img src="images/number of rest and seats.png" alt="drawing" width="500"/>
 
-## [Mobile app conversion](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Mobile%20App%20Conversion/IntegratedProject2Final.ipynb)
+## [Mobile app conversion](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Mobile%20App%20Conversion/README.md)
 <a id='mobile'></a>
  
  In this project I've analysed mobile app logs:
