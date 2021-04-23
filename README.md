@@ -55,9 +55,9 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 **Libraries used**: pandas, matplotlib, scipy, seaborn
 
-<img src="images/Store AB Testing.png" alt="drawing" width="600"/>
+<img src="images/Store AB Testing.png" alt="drawing" width="500"/>
 
-<img src="images/Store AB Testing 2.png" alt="drawing" width="600"/>
+<img src="images/Store AB Testing 2.png" alt="drawing" width="500"/>
 
 ## [Food market research]()<a id='food'></a>
  
@@ -71,8 +71,8 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 **Key words**: pie chart, bar plot, scatter plot, distribution plot. 
 
 **Libraries used**: pandas, matplotlib, numpy, plotly, seaborn.
-<img src="images/08_seats.png" alt="drawing" width="400"/>
-<img src="images/08_barplot.png" alt="drawing" width="400"/>
+<img src="images/rest seat avg totals.png" alt="drawing" width="500"/>
+<img src="images/number of rest and seats.png" alt="drawing" width="500"/>
 
 ## [Mobile app conversion]
 ()
@@ -87,8 +87,8 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 **Key words**: sales funnel, conversion, A/B test, user behaviour. 
 
 **Libraries used**: pandas, plotly, seaborn, scipy.
-<img src="images/events%20per%20date.png" alt="drawing" width="400"/>
-<img src="images/funnel.png" alt="drawing" width="400"/>
+<img src="images/events%20per%20date.png" alt="drawing" width="500"/>
+<img src="images/funnel.png" alt="drawing" width="500"/>
 
 # Tableau visualizations<a id='tableau'></a>
 ### [Trending YouTube Videos Dashboard](https://public.tableau.com/profile/adnan2635#!/vizhome/PYTestDash/Dashboard1)<a id='yb'></a>
