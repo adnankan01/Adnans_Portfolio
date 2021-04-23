@@ -86,7 +86,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 <img src="images/funnel.png" alt="drawing" width="400"/>
 
 # Tableau visualizations<a id='tableau'></a>
-## [Trending YouTube Videos](https://public.tableau.com/profile/elizaveta.gorbunova#!/)<a id='yb'></a>
-## [Trending YouTube Videos](https://public.tableau.com/views/AutomationProject_16133294072210/TrendingYouTubeVideos?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
-Dashboard shows trending YouTube videos per country and category over time.
+- ## [Trending YouTube Videos](https://public.tableau.com/profile/adnan2635#!/)<a id='yb'></a>
++ ## [Trending YouTube Videos](https://public.tableau.com/views/ABPROJECTDASH/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
+Dashboard shows trending YouTube video ads per country and category over time.
 <img src="images/tableau_yb.png" alt="drawing" width="800"/>
