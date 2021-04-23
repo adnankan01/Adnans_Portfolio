@@ -38,9 +38,9 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 **Libraries used**: pandas, matplotlib, seaborn, scipy.
 
-<img src="images/Avg_Romi_Bus_Analytics.png" alt="drawing" width="400"/>
+<img src="images/Avg_Romi_Bus_Analytics.png" alt="drawing" width="600"/>
 
-<img src="images/CAC.png" alt="drawing" width="400"/>
+<img src="images/CAC.png" alt="drawing" width="600"/>
 
 ## [Online store A/B testing]()<a id='online_store'></a>
  
@@ -55,9 +55,9 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 **Libraries used**: pandas, matplotlib, scipy, seaborn
 
-<img src="images/Store AB Testing.png" alt="drawing" width="400"/>
+<img src="images/Store AB Testing.png" alt="drawing" width="600"/>
 
-<img src="images/Store AB Testing 2.png" alt="drawing" width="400"/>
+<img src="images/Store AB Testing 2.png" alt="drawing" width="600"/>
 
 ## [Food market research]()<a id='food'></a>
  
