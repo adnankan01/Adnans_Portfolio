@@ -1,5 +1,5 @@
 #  Yandex Practicum Projects Overview
-List of Topics studied below:
+## List of Topics studied below:
 
 1. Data Preprocessing (**Python, numpy**)
 2. Exploratory Data Analysis (**pandas, scipy, matplotlib**)
