@@ -12,14 +12,13 @@ List of Topics studied below:
 9. Forecasts and Predictions (**Machine Learning**)
 
 Some of the projects I've completed during Yandex's Practicum Data Analyst Program below:
-
-#### 1.[Jupyter Notebook](#jn)
+#### 1. [Jupyter Notebook](#jn)
   - [Marketing Expenses Research](#marketing)
   - [Online Store A/B Testing](#online_store)
   - [Food Market Research](+food)
   - [Mobile App Conversion](#mobile)
-#### 2.[Tableau Visualizations](#tableau)
-  -
+#### 2. [Tableau Visualizations](#tableau)
+  - [Trending Youtube Videos](#yb)
   
 
 # Jupyter notebook<a id='jn'></a>
