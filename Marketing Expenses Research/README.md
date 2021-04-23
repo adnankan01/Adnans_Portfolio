@@ -1,4 +1,4 @@
-## Business Analytics Sprint¶
+## Business Analytics Project
 ### Project Goal: To optimize Yandex.Afisha marketing expenses
 **8key words**: LTV, CAC, ROMI, cohort analysis
 
