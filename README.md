@@ -78,7 +78,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 <img src="images/number of rest and seats.png" alt="drawing" width="500"/>
 
-## [Mobile app conversion](https://github.com/adnankan01/Adnans_Portfolio/blob/main/IntegratedProject2Final.ipynb)
+## [Mobile app conversion](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Mobile%20App%20Conversion/IntegratedProject2Final.ipynb)
 <a id='mobile'></a>
  
  In this project I've analysed mobile app logs:
