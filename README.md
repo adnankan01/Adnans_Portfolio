@@ -25,8 +25,8 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 # Jupyter notebook<a id='jn'></a>
 
-## [Marketing Expenses Research]
-(https://github.com/adnankan01/Adnans_Portfolio/tree/main/BusAnalyticsProject)<a id='marketing'></a>
+## [Marketing Expenses Research](https://github.com/adnankan01/Adnans_Portfolio/tree/main/BusAnalyticsProject)
+<a id='marketing'></a>
  
  For this project I've analysed data on marketing costs, visits and orders for Yandex.Afisha:
  * Described how clients used the product and when they made purchases
@@ -60,8 +60,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 <img src="images/Store AB Testing 2.png" alt="drawing" width="500"/>
 
-## [Food market research]
-(https://github.com/adnankan01/Adnans_Portfolio/blob/main/Food%20Market%20Research/HowToTellAStoryProject.ipynb)
+## [Food market research](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Food%20Market%20Research/HowToTellAStoryProject.ipynb)
 <a id='food'></a>
  
  Here I've worked with data on food market in LA to provide recommendations to investors:
