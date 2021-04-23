@@ -19,7 +19,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
   - [Mobile App Conversion](#mobile)
 
   2. [Tableau Visualizations](#tableau)
-  - [Various Dashboards] 
+  - [Various Dashboards](#vd) 
   - [Trending Youtube Videos](#yb)
   
 
@@ -94,4 +94,4 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 Dashboard shows trending YouTube video ads per country and category over time.
 <img src="images/VideoAd Dashboard.png" alt="drawing" width="800"/>
 
-### [Various Dashboards](https://public.tableau.com/profile/adnan2635#!/)<a id='yb'></a>
+### [Various Dashboards](https://public.tableau.com/profile/adnan2635#!/)<a id='vd'></a>
