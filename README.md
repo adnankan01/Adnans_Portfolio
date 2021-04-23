@@ -90,9 +90,9 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 **Libraries used**: pandas, plotly, seaborn, scipy.
 
-<img src="images/events%20per%20date.png" alt="drawing" width="500"/>
+<img src="images/EventDataPvt.png" alt="drawing" width="500"/>
 
-<img src="images/funnel.png" alt="drawing" width="500"/>
+<img src="images/GroupAvg.png" alt="drawing" width="500"/>
 
 # Tableau visualizations<a id='tableau'></a>
 ### [Trending YouTube Videos Dashboard](https://public.tableau.com/profile/adnan2635#!/vizhome/PYTestDash/Dashboard1)<a id='yb'></a>
