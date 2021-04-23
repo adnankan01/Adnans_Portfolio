@@ -19,6 +19,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
   - [Mobile App Conversion](#mobile)
 
   2. [Tableau Visualizations](#tableau)
+  - [Various Dashboards] 
   - [Trending Youtube Videos](#yb)
   
 
@@ -71,7 +72,9 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 <img src="images/08_seats.png" alt="drawing" width="400"/>
 <img src="images/08_barplot.png" alt="drawing" width="400"/>
 
-## [Mobile app conversion]()<a id='mobile'></a>
+## [Mobile app conversion]
+()
+<a id='mobile'></a>
  
  In this project I've analysed mobile app logs:
  * Determined how many logs are there per each date, chose a suitable date interval for analysis
@@ -86,8 +89,11 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 <img src="images/funnel.png" alt="drawing" width="400"/>
 
 # Tableau visualizations<a id='tableau'></a>
-- ## [Trending YouTube Videos](https://public.tableau.com/profile/adnan2635#!/)<a id='yb'></a>
-+ ## [Trending YouTube Videos]
-<img src="images/VideoAd Dashboard.png" alt="drawing" width="800"/>(https://public.tableau.com/views/ABPROJECTDASH/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
+
+- ## [Various Dashboards](https://public.tableau.com/profile/adnan2635#!/)<a id='yb'></a>
+- ## [Trending YouTube Videos Dashboard](https://public.tableau.com/views/ABPROJECTDASH/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
+
 Dashboard shows trending YouTube video ads per country and category over time.
-<img src="images/tableau_yb.png" alt="drawing" width="800"/>
+<img src="images/VideoAd Dashboard.png" alt="drawing" width="800"/>
+
+
