@@ -1,8 +1,9 @@
 ## Business Analytics Project
-### Project Goal: 
+### Objective: 
 - To optimize Yandex.Afisha marketing expenses
 
 **key words**: LTV, CAC, ROMI, cohort analysis
+
 **libraries** used: panda, seaborn
 
 ### Data we were provided :
