@@ -25,7 +25,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 # Jupyter notebook<a id='jn'></a>
 
-## [Marketing Expenses Research](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Marketing%20Expenses%20Research/README.md)
+## [Marketing Expenses Research](https://github.com/adnankan01/Adnans_Portfolio/tree/main/Marketing%20Expenses%20Research)
 <a id='marketing'></a>
  
  For this project I've analysed data on marketing costs, visits and orders for Yandex.Afisha:
@@ -43,7 +43,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 
 <img src="images/CAC.png" alt="drawing" width="500"/>
 
-## [Online store A/B testing](https://github.com/adnankan01/Adnans_Portfolio/blob/main/Online%20Store%20AB%20Testing/README.md)<a id='online_store'></a>
+## [Online store A/B testing](https://github.com/adnankan01/Adnans_Portfolio/tree/main/Online%20Store%20AB%20Testing)<a id='online_store'></a>
  
  In this project I've worked with online store orders and visits:
  * Prioritised list of hypotheses to test using ICE and RICE scores
