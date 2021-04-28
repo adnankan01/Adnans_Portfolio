@@ -19,9 +19,8 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
   - [Mobile App Conversion](#mobile)
 
   2. [Tableau Visualizations](#tableau)
-  - [Various Dashboards](#vd) 
   - [Trending Youtube Videos](#yb)
-  
+  - [Various Dashboards](#vd)   
 
 # Jupyter notebook<a id='jn'></a>
 
