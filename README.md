@@ -1,4 +1,4 @@
-#  Yandex Practicum Projects Overview
+#  TripleTen Data Analytics Program Projects Overview
 ## List of Topics studied below:
 
 1. Data Preprocessing (**Python, numpy**)
