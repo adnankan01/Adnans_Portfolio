@@ -100,4 +100,4 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 Dashboard shows trending YouTube video ads per country and category over time.
 <img src="images/VideoAd Dashboard.png" alt="drawing" width="800"/>
 
-### [Various Dashboards](https://public.tableau.com/profile/adnan2635#!/)<a id='vd'></a>
+
