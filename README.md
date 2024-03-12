@@ -100,4 +100,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 Dashboard shows trending YouTube video ads per country and category over time.
 <img src="images/VideoAd Dashboard.png" alt="drawing" width="800"/>
 
+previous dashboards made at Snap Finance
+![image](https://github.com/adnankan01/Adnans_Portfolio/assets/64101500/dda166e5-1ad9-49d9-ae6f-597679e795a4)
+
 
