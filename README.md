@@ -33,7 +33,17 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
  * Performed cohort analysis
  * Explained which marketing costs were worthwhile
  * Came up with product and marketing campaign improvements
- 
+
+**Conclusion:**
+Advise marketing experts how much money to invest and where. What sources/platforms would you recommend? Back up your choice. What metrics did you focus on? Why? What conclusions did you draw after finding the metric values?
+
+1. Very few users return to the product on a weekly or monthly basis so focusing on making users come back more often by including additional features or services could help.
+2. Touch based visits are less popular and therefor Yandex should consider devoting resources to improving the experience since lots of people use their phones/apps now a days and everyone has a smart phone.
+3. Yandex should look at dropping sources 7 and 10 as they are most ineffective. It would be wise to reduce investment through source 3 and start investing more in source 4 and 5.
+4. ROMI IS best on Sources 1,5 and 2 with 1 being the Lowest in CAC and second highest in Revenue.
+5. Yandex should revisit its strategy in use around Sept 2017 as there was a big increase in orders.
+6. Yandex may want to consider giving incentives more often to onboard more customers, which will increase sales in future months. It seems as though it has some large clients based on AVG monthly reventues and it wouldn't be a bad idea to have a special kind of deal for these clients to lead to more purchaes and easier budgeting decisions.
+   
 **Key words**: LTV, CAC, ROMI, retention, cohort analysis. 
 
 **Libraries used**: pandas, matplotlib, seaborn, scipy.
@@ -41,6 +51,8 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 <img src="images/Avg_Romi_Bus_Analytics.png" alt="drawing" width="500"/>
 
 <img src="images/CAC.png" alt="drawing" width="500"/>
+
+
 
 ## [Online store A/B testing](https://github.com/adnankan01/Adnans_Portfolio/tree/main/Online%20Store%20AB%20Testing)<a id='online_store'></a>
  
@@ -58,6 +70,8 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
 <img src="images/Store AB Testing.png" alt="drawing" width="500"/>
 
 <img src="images/Store AB Testing 2.png" alt="drawing" width="500"/>
+
+
 
 ## [Food market research](https://github.com/adnankan01/Adnans_Portfolio/tree/main/Food%20Market%20Research)
 <a id='food'></a>
