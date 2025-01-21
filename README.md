@@ -123,6 +123,7 @@ In this project I've:
 * Described any other patterns you see with respect to interaction with customers
   
 **Key words**: clusters, customer features, correlation matrix, churn, model, machine learning
+
 **Libraries used**: distplot, matplotlib, sklearn, scipy
 
 # Tableau visualizations<a id='tableau'></a>
