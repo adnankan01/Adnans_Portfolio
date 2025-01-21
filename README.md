@@ -17,6 +17,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
   - [Online Store A/B Testing](#online_store)
   - [Food Market Research](+food)
   - [Mobile App Conversion](#mobile)
+  - [Forecasts and Predictions](#forecasts)
 
   2. [Tableau Visualizations](#tableau)
   - [Trending Youtube Videos](#yb)
@@ -109,6 +110,7 @@ Advise marketing experts how much money to invest and where. What sources/platfo
 <img src="images/GroupAvg.PNG" alt="drawing" width="500"/>
 
 ## [Forecasts and Predictions Project](https://github.com/adnankan01/Adnans_Portfolio/blob/main/ForecastsNPredictionsFinalProject-2.ipynb)
+<a id='Forecasts'></a>
 
 In this project I've:
 
@@ -120,7 +122,7 @@ In this project I've:
 * Suggested measures to cut churn
 * Described any other patterns you see with respect to interaction with customers
   
-**Key words**: clusters, customer features, correlation matrix, churn, model
+**Key words**: clusters, customer features, correlation matrix, churn, model, machine learning
 **Libraries used**: distplot, matplotlib, sklearn, scipy
 
 # Tableau visualizations<a id='tableau'></a>
