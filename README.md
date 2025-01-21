@@ -116,8 +116,14 @@ Dashboard shows trending YouTube video ads per country and category over time.
 
 ## Previous dashboards made by me showcasing Various Monthly Team Case and Saving Totals
 
-![image](https://github.com/adnankan01/Adnans_Portfolio/assets/64101500/dda166e5-1ad9-49d9-ae6f-597679e795a4)
-![image](https://github.com/adnankan01/Adnans_Portfolio/assets/64101500/2526a137-74d5-4bd2-87db-32577ea3a8d9)
+Proactive Case/Agent Totals:
+* Q,M,Y Monthly Team totals showing counts of Fraud Flags, Linkage, Pattern Analysis, Real Time 
+* Q,M,Y Merchant Self Funding Team totals showing case counts, Fit withdraw savings
+
+Cases that I tracked:
+* Proactive Team Cases, Real-time Fraud, Fraud Flags, Linkage, Pattern Analysis, Fit Withdraw Savings, Chargebacks, LifeLock, Manual Funding, OFAC, Watchdog, Volume Spike, Prefunding, FPD Analysis, Recovery, SFC).
+
+
 
 
 
