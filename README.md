@@ -108,6 +108,21 @@ Advise marketing experts how much money to invest and where. What sources/platfo
 
 <img src="images/GroupAvg.PNG" alt="drawing" width="500"/>
 
+## [Forecasts and Predictions Project](https://github.com/adnankan01/Adnans_Portfolio/blob/main/ForecastsNPredictionsFinalProject-2.ipynb)
+
+In this project I've:
+
+* Learned to predict the probability of churn (for the upcoming month) for each customer
+* Drawed up typical user portraits: select the most outstanding groups and describe their main features
+* Analyzed the factors that impact churn most
+* Drawed basic conclusions and develop recommendations on how to improve customer service:
+* Identifed target groups
+* Suggested measures to cut churn
+* Described any other patterns you see with respect to interaction with customers
+  
+**Key words**: clusters, customer features, correlation matrix, churn, model
+**Libraries used**: distplot, matplotlib, sklearn, scipy
+
 # Tableau visualizations<a id='tableau'></a>
 ### [Trending YouTube Videos Dashboard](https://public.tableau.com/profile/adnan2635#!/vizhome/PYTestDash/Dashboard1)<a id='yb'></a>
 
