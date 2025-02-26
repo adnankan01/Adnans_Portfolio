@@ -12,7 +12,7 @@
 9. Forecasts and Predictions (**Machine Learning**)
 
 Some of the projects I've completed during Yandex's Practicum Data Analyst Program below:
-  1. [Jupyter Notebook](#jn)
+  1. [Jupyter Notebooks](#jn)
   - [Marketing Expenses Research](#marketing)
   - [Online Store A/B Testing](#online_store)
   - [Food Market Research](+food)
@@ -23,7 +23,7 @@ Some of the projects I've completed during Yandex's Practicum Data Analyst Progr
   - [Trending Youtube Videos](#yb)
   - [Various Dashboards](#vd)   
 
-# Jupyter notebook<a id='jn'></a>
+# Jupyter notebooks<a id='jn'></a>
 
 ## [Marketing Expenses Research](https://github.com/adnankan01/Adnans_Portfolio/tree/main/Marketing%20Expenses%20Research)
 <a id='marketing'></a>
